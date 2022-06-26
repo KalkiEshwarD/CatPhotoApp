@@ -1,0 +1,12 @@
+@media (max-width: 100px){
+
+}
+
+p{
+  display: flex;
+}
+
+#nav-bar{
+  position: fixed;
+  margin-top: 0;
+}

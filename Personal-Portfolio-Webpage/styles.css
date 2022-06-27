@@ -1,0 +1,14 @@
+@media (max-width: 100px){
+  html{
+    background-color: green;
+  }
+}
+
+#welcome-section{
+  height: 100vw;
+}
+
+#navbar{
+  position: fixed;
+  top: 0;
+}
